@@ -1,6 +1,6 @@
 class Hangman
   @@lines 
-  @@number_guess = 26
+  @@number_guess = 10
   @@str = ""
   @@random_line = ""
   def initialize
